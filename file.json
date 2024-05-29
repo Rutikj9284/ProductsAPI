@@ -1,0 +1,671 @@
+[
+    {
+        "id": "1",
+        "name": "iPhone 13",
+        "company": "Apple",
+        "price": 7999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FF0000"
+        ],
+        "description": "Latest Apple iPhone with A15 Bionic chip.",
+        "category": "Smartphone",
+        "shipping": true,
+        "stock": 150,
+        "reviews": 200,
+        "stars": 4.8,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.Pq8j7NQNakncXZz9-4ijTAHaKX&pid=Api&P=0&h=180",
+                "filename": "iphone13_1.jpg",
+                "size": 200,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.tok8J2e3lQQBbpwIJnWq_QAAAA&pid=Api&P=0&h=180",
+                "filename": "iphone13_2.jpg",
+                "size": 210,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse4.mm.bing.net/th?id=OIP.1OoV2ahI7k2fA4y_8fXRFAHaE8&pid=Api&P=0&h=180",
+                "filename": "iphone13_3.jpg",
+                "size": 220,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.yizpn17no3R__WPSFh5sRQHaEx&pid=Api&P=0&h=180",
+                "filename": "iphone13_4.jpg",
+                "size": 230,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "2",
+        "name": "Galaxy S21",
+        "company": "Samsung",
+        "price": 6999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#00FF00"
+        ],
+        "description": "Samsung Galaxy S21 with Exynos 2100.",
+        "category": "Smartphone",
+        "shipping": true,
+        "stock": 200,
+        "reviews": 150,
+        "stars": 4.6,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.yizpn17no3R__WPSFh5sRQHaEx&pid=Api&P=0&h=180",
+                "filename": "galaxys21_1.jpg",
+                "size": 250,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.I8jT8oDfOsYhcCIo5dMknQHaE7&pid=Api&P=0&h=180",
+                "filename": "galaxys21_2.jpg",
+                "size": 260,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.2wft5893Q3_jf99mJ2KNoAHaEK&pid=Api&P=0&h=180",
+                "filename": "galaxys21_3.jpg",
+                "size": 270,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.5C4PCcMmcPsX5bKhSH-AEQHaE7&pid=Api&P=0&h=180",
+                "filename": "galaxys21_4.jpg",
+                "size": 280,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "3",
+        "name": "Spectre x360",
+        "company": "HP",
+        "price": 12499900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FFD700"
+        ],
+        "description": "HP Spectre x360 with Intel Core i7.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 100,
+        "reviews": 120,
+        "stars": 4.5,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.mGba6CDEayK-G5BrQdIgywHaFc&pid=Api&P=0&h=180",
+                "filename": "spectrex360_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.D2lsqLweXXjttRUJPEAZGwHaGT&pid=Api&P=0&h=180",
+                "filename": "spectrex360_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.D2lsqLweXXjttRUJPEAZGwHaGT&pid=Api&P=0&h=180",
+                "filename": "spectrex360_3.jpg",
+                "size": 320,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://laptopsreviewer.com/wp-content/uploads/2020/12/hp-spectre-x360-11th-gen-intel-core-i7-full-hd-touchscreen-1536x1306.jpg",
+                "filename": "spectrex360_4.jpg",
+                "size": 330,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "4",
+        "name": "XPS 13",
+        "company": "Dell",
+        "price": 12999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#C0C0C0"
+        ],
+        "description": "Dell XPS 13 with Intel Core i7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 80,
+        "reviews": 140,
+        "stars": 4.7,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.YxR2s2V__rXXt5YRwf6oDAHaFx&pid=Api&P=0&h=180",
+                "filename": "xps13_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/dell_xps_13_2-in-1-7390-review-hero2.jpg?itok=GuaWhpfE",
+                "filename": "xps13_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/dell_xps_13_2-in-1-7390-review-hero2.jpg?itok=GuaWhpfE",
+                "filename": "xps13_3.jpg",
+                "size": 320,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2019/10/dell_xps_13_2-in-1-7390-review-hero2.jpg?itok=GuaWhpfE",
+                "filename": "xps13_4.jpg",
+                "size": 330,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "5",
+        "name": "MacBook Pro",
+        "company": "Apple",
+        "price": 14999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#888888"
+        ],
+        "description": "Apple MacBook Pro with M1 chip and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 60,
+        "reviews": 200,
+        "stars": 4.8,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.LneihLoprN4ePSUMc05RqwHaFj&pid=Api&P=0&h=180",
+                "filename": "macbookpro_1.jpg",
+                "size": 290,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://cdn2.vox-cdn.com/uploads/chorus_asset/file/7390261/vpavic_161031_1256_0264.0.jpg",
+                "filename": "macbookpro_2.jpg",
+                "size": 295,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://i1.wp.com/laptopmedia.com/wp-content/uploads/2017/06/refurbished-macbook-pro-1.jpg?fit=2160%2C1601",
+                "filename": "macbookpro_1.jpg",
+                "size": 290,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://i1.wp.com/laptopmedia.com/wp-content/uploads/2017/06/refurbished-macbook-pro-1.jpg?fit=2160%2C1601",
+                "filename": "macbookpro_2.jpg",
+                "size": 295,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "6",
+        "name": "Surface Laptop 4",
+        "company": "Microsoft",
+        "price": 11999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#808080"
+        ],
+        "description": "Microsoft Surface Laptop 4 with AMD Ryzen 7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 50,
+        "reviews": 110,
+        "stars": 4.6,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://i1.wp.com/laptopmedia.com/wp-content/uploads/2017/06/refurbished-macbook-pro-1.jpg?fit=2160%2C1601",
+                "filename": "surfacelaptop4_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://i1.wp.com/laptopmedia.com/wp-content/uploads/2017/06/refurbished-macbook-pro-1.jpg?fit=2160%2C1601",
+                "filename": "surfacelaptop4_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://cdn.mos.cms.futurecdn.net/gYm6fYwFuMGWb2WRojs3rX.jpg",
+                "filename": "surfacelaptop4_3.jpg",
+                "size": 290,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455202_sd.jpg",
+                "filename": "surfacelaptop4_4.jpg",
+                "size": 295,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": true
+    },
+    {
+        "id": "7",
+        "name": "ThinkPad X1 Carbon",
+        "company": "Lenovo",
+        "price": 13999900,
+        "colors": [
+            "#000000"
+        ],
+        "description": "Lenovo ThinkPad X1 Carbon with Intel Core i7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 70,
+        "reviews": 150,
+        "stars": 4.7,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455202_sd.jpg",
+                "filename": "thinkpadx1carbon_1.jpg",
+                "size": 320,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455202_sd.jpg",
+                "filename": "thinkpadx1carbon_2.jpg",
+                "size": 330,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse4.mm.bing.net/th?id=OIP.QkLLjIirYcXwJ0AFhx6ZHwHaFG&pid=Api&P=0&h=18",
+                "filename": "thinkpadx1carbon_1.jpg",
+                "size": 320,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.prix-portables.fr/images/fiches/2/G-24178-1-Lenovo-ThinkPad-X1-Carbon-1.jpg",
+                "filename": "thinkpadx1carbon_2.jpg",
+                "size": 330,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "8",
+        "name": "Spectre x360",
+        "company": "HP",
+        "price": 12999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#B22222"
+        ],
+        "description": "HP Spectre x360 with Intel Core i7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 90,
+        "reviews": 120,
+        "stars": 4.7,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.prix-portables.fr/images/fiches/2/G-24178-1-Lenovo-ThinkPad-X1-Carbon-1.jpg",
+                "filename": "spectrex360_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://images.idgesg.net/images/article/2019/02/tent-mode-100789809-orig.jpg",
+                "filename": "spectrex360_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.pcworld.com/wp-content/uploads/2021/09/hp-spectre-x360-14-1q881av-main.jpg-100877315-orig.jpeg?quality=50&strip=all",
+                "filename": "spectrex360_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://sm.pcmag.com/t/pcmag_au/review/h/hp-spectre/hp-spectre-x360-15-2020_8f6y.1920.jpg",
+                "filename": "spectrex360_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "9",
+        "name": "ROG Zephyrus G14",
+        "company": "Asus",
+        "price": 12999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#A52A2A"
+        ],
+        "description": "Asus ROG Zephyrus G14 with AMD Ryzen 9 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 65,
+        "reviews": 130,
+        "stars": 4.8,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse4.mm.bing.net/th?id=OIP.vxS5JatQ0CHJ8S_KICnQXgHaFj&pid=Api&P=0&h=180",
+                "filename": "rogzephyrusg14_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.Go8efWaWDAMVQwoufSLFlAAAAA&pid=Api&P=0&h=180",
+                "filename": "rogzephyrusg14_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://assets.mspimages.in/wp-content/uploads/2020/09/ASUS-ROG-Zephyrus-G14-product-image-16.jpg",
+                "filename": "rogzephyrusg14_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.0z5XBQHzTIkkuSOb-WGNKAAAAA&pid=Api&P=0&h=180",
+                "filename": "rogzephyrusg14_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "10",
+        "name": "Galaxy Book Pro",
+        "company": "Samsung",
+        "price": 11999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#87CEEB"
+        ],
+        "description": "Samsung Galaxy Book Pro with Intel Core i7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 40,
+        "reviews": 100,
+        "stars": 4.6,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.tOv6moDW5Ul2SciAvVBHlgAAAA&pid=Api&P=0&h=180",
+                "filename": "galaxybookpro_1.jpg",
+                "size": 280,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.NinRa_C2HC2o42AtXGxcvQHaE8&pid=Api&P=0&h=180",
+                "filename": "galaxybookpro_2.jpg",
+                "size": 290,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse4.mm.bing.net/th?id=OIP.WQU97VUDPn20MYGLlxNDLAHaFV&pid=Api&P=0&h=180",
+                "filename": "galaxybookpro_1.jpg",
+                "size": 280,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/small/public/field/image/2021/04/samsung-galaxy-book-pro-360-reco.jpg",
+                "filename": "galaxybookpro_2.jpg",
+                "size": 290,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "11",
+        "name": "Razer Blade 15",
+        "company": "Razer",
+        "price": 15999900,
+        "colors": [
+            "#000000",
+            "#008000"
+        ],
+        "description": "Razer Blade 15 with Intel Core i7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 55,
+        "reviews": 175,
+        "stars": 4.8,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse4.mm.bing.net/th?id=OIP.hcK2LYejPO2UZT9f1KtUBgHaFE&pid=Api&P=0&h=180",
+                "filename": "razerblade15_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.eGQJP-uwj0jJO5XsKH5UmQHaE8&pid=Api&P=0&h=180",
+                "filename": "razerblade15_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.FdLqdQrFwh2XzEGEJsz2jQHaEv&pid=Api&P=0&h=180",
+                "filename": "razerblade15_1.jpg",
+                "size": 300,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse2.mm.bing.net/th?id=OIP.HM7wmoLAmsh0se6A8kGCGgHaD4&pid=Api&P=0&h=180",
+                "filename": "razerblade15_2.jpg",
+                "size": 310,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    },
+    {
+        "id": "12",
+        "name": "Acer Swift 3",
+        "company": "Acer",
+        "price": 8999900,
+        "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FFD700"
+        ],
+        "description": "Acer Swift 3 with AMD Ryzen 7 and 16GB RAM.",
+        "category": "Laptop",
+        "shipping": true,
+        "stock": 100,
+        "reviews": 90,
+        "stars": 4.5,
+        "image": [
+            {
+                "id": "img1",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.t-yH-kwx-VGHvJUGx0oN0wHaEi&pid=Api&P=0&h=180",
+                "filename": "acerswift3_1.jpg",
+                "size": 260,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img2",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse3.mm.bing.net/th?id=OIP.7bxDugoprUipXCF9M1SUyAHaHa&pid=Api&P=0&h=180",
+                "filename": "acerswift3_2.jpg",
+                "size": 270,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img3",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.DWKphf28JjeLQow37LyVjwHaD3&pid=Api&P=0&h=180",
+                "filename": "acerswift3_1.jpg",
+                "size": 260,
+                "type": "image/jpeg"
+            },
+            {
+                "id": "img4",
+                "width": 500,
+                "height": 500,
+                "url": "https://tse1.mm.bing.net/th?id=OIP.J6nsSrwCKN8MdBBsywLvUAHaFj&pid=Api&P=0&h=180",
+                "filename": "acerswift3_2.jpg",
+                "size": 270,
+                "type": "image/jpeg"
+            }
+        ],
+        "featured": false
+    }
+]
